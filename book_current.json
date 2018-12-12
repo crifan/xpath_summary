@@ -1,0 +1,19 @@
+{
+  "title": "XPath知识总结",
+  "description": "总结XPath相关的语法和示例和经验",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "xpath_summary"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/xpath_summary/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/xpath_summary/pdf/xpath_summary.pdf"
+    }
+  }
+}
