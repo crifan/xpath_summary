@@ -1,17 +1,11 @@
-# 官网教程
-
-* [XPath Tutorial](https://www.w3schools.com/xml/xpath_intro.asp)
-* [XML Path Language (XPath)](https://www.w3.org/TR/xpath/)
-* [XPath 1.0 Tutorial @ZVON.org](http://www.zvon.org/comp/r/tut-XPath_1.html)
-* [starts-with \[XPath 2.0 Reference @ Zvon.org\]](http://www.zvon.org/comp/r/ref-XPath_2.html#Functions~starts-with)
-* [contains \[XPath 2.0 Reference @ Zvon.org\]](http://www.zvon.org/comp/r/ref-XPath_2.html#Functions~contains)
-* [matches \[XPath 2.0 Reference @ Zvon.org\]](http://www.zvon.org/comp/r/ref-XPath_2.html#Functions~matches)
-* [ends-with \[XPath 2.0 Reference @ Zvon.org\]](http://www.zvon.org/comp/r/ref-XPath_2.html#Functions~ends-with)
-* [Selectors](https://www.w3.org/TR/CSS2/selector.html)
-
-
 # 参考资料
 
+* 【已解决】Selenium如何实现2种class属性值的or或去查找元素
+* 【未解决】Selenium的Chrome模拟bing必应搜索结果页面提取搜索结果
+* 【已解决】Selenium中用xpath查询元素节点找到结果不对
+* 
+* [XPath 运算符 | 菜鸟教程](https://www.runoob.com/xpath/xpath-operators.html)
+* 
 * [【已解决】Xpath中如何判断属性值不等于某个值](http://www.crifan.com/xpath_check_property_not_equal_some_value)
 * [【已解决】xpath中如何实现或者or的判断](http://www.crifan.com/xpath_how_to_logical_or_check)
 * [【已解决】Selenium如何点击下拉框并选择某个值](http://www.crifan.com/selenium_click_dropdown_show_option_list_to_choose_someone)

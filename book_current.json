@@ -1,6 +1,6 @@
 {
   "title": "XPath知识总结",
-  "description": "总结XPath相关的语法和示例和经验",
+  "description": "整理在上层软件领域，尤其是Web领域，常用到的基础通用知识XPath。先进行基本语法的介绍；再总结常用场景和具体例子，包括常见函数、逻辑操作、判断比较等；以及一些常见问题；最后附上官网资料供参考。",
   "pluginsConfig": {
     "github-buttons": {
       "buttons": [
@@ -10,10 +10,10 @@
       ]
     },
     "sitemap-general": {
-      "prefix": "https://book.crifan.com/gitbook/xpath_summary/website/"
+      "prefix": "https://book.crifan.com/books/xpath_summary/website/"
     },
     "toolbar-button": {
-      "url": "http://book.crifan.com/books/xpath_summary/pdf/xpath_summary.pdf"
+      "url": "https://book.crifan.com/books/xpath_summary/pdf/xpath_summary.pdf"
     }
   }
 }

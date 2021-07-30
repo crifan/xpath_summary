@@ -1,7 +1,7 @@
 {
-  "latestVersion": "v0.3",
-  "lastUpdate": "20190526",
+  "latestVersion": "v0.6",
+  "lastUpdate": "20210730",
   "gitRepoName": "xpath_summary",
   "bookName": "XPath知识总结",
-  "bookDescription": "整理出在上层软件领域折腾`XPath`所获得的经验和心得，供参考。"
+  "bookDescription": "整理在上层软件领域，尤其是Web领域，常用到的基础通用知识XPath。先进行基本语法的介绍；再总结常用场景和具体例子，包括常见函数、逻辑操作、判断比较等；以及一些常见问题；最后附上官网资料供参考。"
 }
